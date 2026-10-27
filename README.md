@@ -102,7 +102,7 @@ We are also thankful for the following awesome projects our AVicuna arising from
 ```bibtex
 @article{tang2024avicuna,
   title={Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding},
-  author={Tang, Yunlong and Shimada, Daiki and Bi, Jing and Feng, Mingqian and Hua, Hang and Xu, Chenliang},
+  author={Tang, Yolo Y. and Shimada, Daiki and Bi, Jing and Feng, Mingqian and Hua, Hang and Xu, Chenliang},
   journal={arXiv preprint arXiv:2403.16276},
   year={2024}
 }
