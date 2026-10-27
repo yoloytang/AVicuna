@@ -11,7 +11,7 @@ Repo for the paper ["Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visu
 
 We recommend setting up a conda environment for the project:
 ```shell
-git clone https://github.com/yunlong10/AVicuna.git
+git clone https://github.com/yoloytang/AVicuna.git
 cd AVicuna
 
 conda env create -f avicuna.yml
